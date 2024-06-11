@@ -1,7 +1,7 @@
 const corsOptions = {
   origin: [
-    "https://chatting-app-eight-peach.vercel.app/login",
-    "https://chatting-app-git-main-abhishek-kabdals-projects.vercel.app/login",
+    "https://chatting-app-eight-peach.vercel.app",
+    "https://chatting-app-git-main-abhishek-kabdals-projects.vercel.app",
     process.env.CLIENT_URL,
   ],
   methods: ["GET", "POST", "PUT", "DELETE"],
