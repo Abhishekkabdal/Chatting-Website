@@ -1,6 +1,6 @@
 
 
-MONGO_URI = mongodb://localhost:27017
+MONGO_URI = "mongodb+srv://user1:abcde@cluster0.ybbpg1b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
 
@@ -8,9 +8,9 @@ ADMIN_SECRET_KEY= sample admin kjey
 
 NODE_ENV = DEVELOPMENT
 
-CLIENT_URL = frontend url
+CLIENT_URL = https://chatting-app-eight-peach.vercel.app/login
 
 
-CLOUDINARY_CLOUD_NAME= YOUR CLOUD NAME
-CLOUDINARY_API_KEY = YOUR CLOUD API kEY
-CLOUDINARY_API_SECRET =  YOUR CLOUD SECRET
+CLOUDINARY_CLOUD_NAME= df9rbxhek
+CLOUDINARY_API_KEY = 864273687835181
+CLOUDINARY_API_SECRET =  j52xasc0BCFYllgE30K_-ER5_Jw
