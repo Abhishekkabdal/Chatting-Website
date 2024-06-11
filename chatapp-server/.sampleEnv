@@ -8,7 +8,7 @@ ADMIN_SECRET_KEY= sample admin kjey
 
 NODE_ENV = DEVELOPMENT
 
-CLIENT_URL = https://chatting-app-eight-peach.vercel.app/login
+CLIENT_URL = https://chatting-app-eight-peach.vercel.app
 
 
 CLOUDINARY_CLOUD_NAME= df9rbxhek
